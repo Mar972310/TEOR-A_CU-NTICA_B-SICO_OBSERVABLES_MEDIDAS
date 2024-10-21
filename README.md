@@ -47,7 +47,7 @@ Antes de comenzar con la ejecución de este proyecto, es necesario asegurarse de
 En caso de no tenerlo siga los siguientes pasos:
 1. Dirigirse a la página https://www.python.org/downloads/
 2. Dar click en la opción de descarga
-   - ![image](images/py.png)
+   - ![image](image/py.png)
    
 4. Ejecutar el programa que se descarga automáticamente.
 
