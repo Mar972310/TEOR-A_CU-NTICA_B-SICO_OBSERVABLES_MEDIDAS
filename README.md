@@ -70,6 +70,9 @@ Para instalar la librería debe tener en cuenta estos pasos:
 
 ## Ejercicios de discusión
 
+![alt text](image/452.png)
+![alt text](image/453.png)
+
 
     
 ## Construido con
